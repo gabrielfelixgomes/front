@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+    <url>
+        <loc>http://www.example.org/business/article55.html</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Jornal de Exemplo</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:access>Subscription</news:access>
+            <news:genres>PressRelease, Blog</news:genres>
+            <news:publication_date>2008-12-23</news:publication_date>
+            <news:title>Empresas A e B discutem fusão</news:title>
+            <news:keywords>negócios, fusão</news:keywords>
+            <news:stock_tickers>NASDAQ:A, NASDAQ:B</news:stock_tickers>
+        </news:news>
+    </url>
+</urlset>

@@ -1,0 +1,19 @@
+# Application
+dist
+
+# Dependency directory
+node_modules
+bower_components
+
+# Logs
+logs
+*.log
+
+# Other
+.DS_Store
+*/.DS_Store
+**/.DS_Store
+.sass_cache
+.sass-cache
+.ftpquota
+error_log

@@ -1,0 +1,29 @@
+{
+  "name": "Front",
+  "description": "Projeto de Front",
+  "main": "index.html",
+  "authors": [
+    "Gabriel Felix Gomes"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "front"
+  ],
+  "homepage": "https://github.com/gabrielfelixgomes/front",
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.0",
+    "jquery-ui": "~1.11.4",
+    "angular": "~1.4.8",
+    "bootstrap": "^3.3.6"
+  }
+}

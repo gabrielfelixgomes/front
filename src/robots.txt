@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /admin/
+
+Sitemap: http://site.com
+
+
+

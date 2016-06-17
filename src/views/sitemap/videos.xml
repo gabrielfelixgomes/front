@@ -1,0 +1,13 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url>
+    <loc>http://www.website.com/video-page.html</loc>
+    <video:video>
+    <video:thumbnail_loc>http://www.website.com/video-thumbnail.jpg</video:thumbnail_loc>
+    <video:title>Most Awesome Video Ever</video:title>
+    <video:description>As the title says: this is the most awesome video ever.</video:description>
+    <video:content_loc>http://www.website.com/video.mp4</video:content_loc>
+    <video:duration>120</video:duration>
+    </video:video>
+    </url>
+</urlset>
